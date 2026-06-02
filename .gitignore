@@ -1,0 +1,7 @@
+.venv/
+.env
+.pw-profile/
+__pycache__/
+frontend/node_modules/
+frontend/dist/
+.playwright-mcp/
